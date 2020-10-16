@@ -1,0 +1,24 @@
+{
+  "name": "sit725-prac3",
+  "version": "1.0.0",
+  "description": "Client Server Applications and UIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tchallagulla/sit725-prac3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tchallagulla/sit725-prac3/issues"
+  },
+  "homepage": "https://github.com/tchallagulla/sit725-prac3#readme",
+  "dependencies": {
+    "express": "*",
+    "moment": "2.24.0"
+  }
+}
